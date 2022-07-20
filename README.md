@@ -1,4 +1,5 @@
 # Pushkar Kumar Lal
+![My Horse!](/horse.jpg)
 - 👋 Hi, I’m @pushkarkumarlal
 - 👀 I’m interested in coding with java and c++
 - 🌱 I’m currently learning GUI DESIGN
