@@ -1,10 +1,9 @@
-# Pushkar Kumar Lal
 ![My Horse!](/horse.jpg)
-- 👋 Hi, I’m @pushkarkumarlal
+# 👋 Hi, I’m @pushkarkumarlal
 - 👀 I’m interested in coding with java and c++
-- 🌱 I’m currently learning GUI DESIGN
-- 💞️ I’m looking to collaborate on DEARMOON
-- 📫 YOU CAN CONTACT ME WITH MY GMAIL ACCOUNT 
+- 🌱 I work in the backendyard
+
+- 📫 YOU CAN CONTACT ME WITH MY GMAIL ACCOUNT ** Pushkarkumarlal@gmail.com **
 
 <!---
 pushkarkumarlal/pushkarkumarlal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
