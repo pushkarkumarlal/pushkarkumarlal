@@ -1,6 +1,4 @@
 # Pushkar Kumar Lal
-
-    ![Tux, the Linux mascot](/assets/images/tux.png)
 - 👋 Hi, I’m @pushkarkumarlal
 - 👀 I’m interested in coding with java and c++
 - 🌱 I’m currently learning GUI DESIGN
