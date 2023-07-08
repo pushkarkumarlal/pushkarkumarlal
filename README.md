@@ -50,7 +50,7 @@ I'm a passion-ate # [full-stack] software developer with expertise in building w
 
 <!--- Projects -->
 ## Projects
-Here are some of the projects I've worked on:
+ I've worked on: _/\_
 
 - **[B2B-Invoice-Managment-Application](https://github.com/pushkarkumarlal/B2B-Invoice-Managment-Application)** -  
 
@@ -60,8 +60,8 @@ Here are some of the projects I've worked on:
 ## Open Source Contributions
 I'm an active contributor to open source projects. Some notable contributions include:
 
-- **[Project 1](https://github.com/pushkarkumarlal/DataStructureAndAlgorithm-Study-Engine)** - Preparing Learning Material for Data Structures And Algorithm in Java
-- **[Project 2](https://github.com/pushkarkumarlal/terminalMicrosoft)** - Thinking to Work On Microsoft terminal
+- **[DataStructureAndAlgorithm-Study-Engine](https://github.com/pushkarkumarlal/DataStructureAndAlgorithm-Study-Engine)** - Preparing Learning Material for Data Structures And Algorithm in Java
+- **[terminalMicrosoft](https://github.com/pushkarkumarlal/terminalMicrosoft)** 
 
 
 
