@@ -67,10 +67,7 @@ I'm an active contributor to open source projects. Some notable contributions in
 
 
 <!--- Connect with Me -->
-## Connect with Me
-You can find me on the following platforms:
-
-- [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/pushkar-kumar-lal/)
+## Connect with Me On LinkedIn [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/pushkar-kumar-lal/)
 
 
 <!--- Fun Fact -->
