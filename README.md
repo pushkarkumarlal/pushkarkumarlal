@@ -43,8 +43,14 @@ I'm a passion-ate # [full-stack] software developer with expertise in building w
       <br />
       MongoDB
     </td>
+    <td align="center">
+      <img src="https://img.icons8.com/color/48/000000/python.png" alt="Python" />
+      <br />
+      Python
+    </td>
   </tr>
 </table>
+
 
 
 
