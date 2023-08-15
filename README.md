@@ -51,38 +51,15 @@ I'm a passion-ate # [full-stack] software developer with expertise in building w
   </tr>
 </table>
 
-
-
-
-<!--- Projects -->
-## Projects
- I've worked on: _/\_
-
-- **[B2B-Invoice-Managment-Application](https://github.com/pushkarkumarlal/B2B-Invoice-Managment-Application)** -  
-
-
-
-<!--- Open Source Contributions -->
-## Open Source Contributions
-I'm an active contributor to open source projects. Some notable contributions include:
-
-- **[DataStructureAndAlgorithm-Study-Engine](https://github.com/pushkarkumarlal/DataStructureAndAlgorithm-Study-Engine)** - Preparing Learning Material for Data Structures And Algorithm in Java
-- **[terminalMicrosoft](https://github.com/pushkarkumarlal/terminalMicrosoft)** 
-
-
+<!--- GitHub Stats -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkarkumarlal&show_icons=true)
 
 
 <!--- Connect with Me -->
 ## Connect with Me On LinkedIn [![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/pushkar-kumar-lal/)
 
-
-<!--- Fun Fact -->
-## Fun Fact
-Here's a fun fact about me: [That there is no fun fact] 😄
-
 <!--- Thank You -->
-Thanks for visiting my profile! Feel free to reach out if you have any questions or just want to say hi. I'm always open to interesting conversations and collaborations.
+Thanks for visiting my profile! Feel free to reach out if you have something for me or just want to say hi. I'm always open to interesting conversations and collaborations.
 
-<!--- GitHub Stats -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pushkarkumarlal&show_icons=true)
+
 
